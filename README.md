@@ -76,3 +76,5 @@ The Helm Provider for Terraform is the work of many contributors. We appreciate 
 To contribute, please read the [contribution guidelines](_about/CONTRIBUTING.md). You may also [report an issue](https://github.com/hashicorp/terraform-provider-helm/issues/new/choose). Once you've filed an issue, it will follow the [issue lifecycle](_about/ISSUES.md).
 
 Also available are some answers to [Frequently Asked Questions](_about/FAQ.md).
+
+# Sagar master
